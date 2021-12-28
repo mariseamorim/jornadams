@@ -1,5 +1,5 @@
-# jornadams
-Projeto Final Jornada Microsoft Samsung Ocean. 
+# Projeto Final Jornada Microsoft Samsung Ocean. 
+
 
 Neste projeto, foi aplicado o conhecimento adquirido na jornada, utlizado práticas de lógica de programação, tipos de dados, controle de fluxo, laços de repetição utilizando funções.
 
